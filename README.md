@@ -48,3 +48,17 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 https://github-readme-streak-stats.herokuapp.com/?user=AdityaKothari1
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AdityaKothari1&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaKothari1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+ <div display="flex">
+      <div>
+          <img src="https://user-images.githubusercontent.com/105914134/190399243-8c9b33fc-d19d-4741-ad91-70e0c735d97f.png" alt="phermesay"/>
+      </div>
+      <div>
+        <img src="https://user-images.githubusercontent.com/105914134/190400222-81b9bc42-434f-4ff6-838b-1189468d3dfd.png" alt="sephora"/>
+      </div>
+      <div>
+        <img src="https://user-images.githubusercontent.com/105914134/191061018-b1fe63ce-3f98-42c6-8191-b383c5c6f20e.png" alt="modesense"/>
+      </div>
+ </div>
+
