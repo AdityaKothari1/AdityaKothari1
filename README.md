@@ -50,7 +50,7 @@ https://github-readme-streak-stats.herokuapp.com/?user=AdityaKothari1
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaKothari1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :fire: Projects :
- <div align="center">
+ <div style="display: flex;" >
       <div>
           <img src="https://user-images.githubusercontent.com/105914134/190399243-8c9b33fc-d19d-4741-ad91-70e0c735d97f.png" alt="phermesay" width="100" height="100"/>
             
