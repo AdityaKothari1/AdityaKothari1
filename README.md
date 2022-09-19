@@ -51,14 +51,14 @@ https://github-readme-streak-stats.herokuapp.com/?user=AdityaKothari1
 
 ### :fire: Projects :
  <div  >
-      <div>
+      <div id="badges" align="center">
           <img src="https://user-images.githubusercontent.com/105914134/190399243-8c9b33fc-d19d-4741-ad91-70e0c735d97f.png" alt="phermesay" width="100" height="100"/>
-            
+            <button></button>
   </div>
-      <div>
+      <div id="badges" align="center">
         <img src="https://user-images.githubusercontent.com/105914134/190400222-81b9bc42-434f-4ff6-838b-1189468d3dfd.png" alt="sephora" width="100" height="100"/>
       </div>
-      <div>
+      <div id="badges" align="center">
         <img src="https://user-images.githubusercontent.com/105914134/191061018-b1fe63ce-3f98-42c6-8191-b383c5c6f20e.png" alt="modesense" width="100" height="100"/>
       </div>
  </div>
