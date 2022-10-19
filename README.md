@@ -4,7 +4,7 @@
 
 
 <div id="badges" align="center">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/aditya-sharma-078731186/)">
+  <a href="[https://www.linkedin.com/in/aditya-sharma-078731186/](https://www.linkedin.com/in/aditya-sharma-078731186/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
@@ -18,10 +18,10 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 - 🔭 I’m currently working on ...Masai School
-- 🌱 I’m currently learning ...Frontend Developing
+- 🌱 I’m currently learning ...Full Stack Web Developing
 - 👯 I’m looking to collaborate on ...React
 - 🤔 I’m looking for help with ...react.js
 - 💬 Ask me about ...Anything
